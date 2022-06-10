@@ -39,9 +39,9 @@
     "@txtMetier":{
          "description": "Craft"
     },  
-     "txtModifier": "‘Update",
+     "txtModifier": "Update",
     "@txtModifier":{
-         "description": "‘Update"
+         "description": "Update"
     },  
      "txtWelcome": "Welcome",
     "@txtWelcome":{
