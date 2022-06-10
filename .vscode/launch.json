@@ -1,0 +1,35 @@
+{
+    // Utilisez IntelliSense pour en savoir plus sur les attributs possibles.
+    // Pointez pour afficher la description des attributs existants.
+    // Pour plus d'informations, visitez : https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [ 
+        {
+        "name": "Chrome",
+        "request": "launch",
+        "type": "dart",
+        "args": [
+            "--web-port", "50463",
+            "-d", "chrome",
+            "--web-renderer", "html",
+            ],
+        },
+        {
+            "name": "cdm",
+            "request": "launch",
+            "type": "dart",
+        },
+        {
+            "name": "cdm (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "cdm (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}

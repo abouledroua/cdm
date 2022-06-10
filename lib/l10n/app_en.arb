@@ -1,0 +1,262 @@
+{
+    "txtLangue": "Language : ",
+    "@txtLangue":{
+         "description": "Language : "
+    },
+    "txtOui": "Yes",
+    "@txtOui":{
+         "description": "Yes"
+    },
+    "txtAppeler": "Call",
+    "@txtAppeler":{
+         "description": "Call"
+    },
+    "txtSMS": "Send SMS",
+    "@txtSMS":{
+         "description": "Call"
+    },
+    "txtSendEmail": "Send Email",
+    "@txtSendEmail":{
+         "description": "Call"
+    },
+     "txtNon": "No",
+    "@txtNon":{
+         "description": "No"
+    }, 
+    "txAllMetier": "All Crafts",
+    "@txAllMetier":{
+         "description": "All Crafts"
+    },
+    "txAllWilaya": "All Wilayas",
+    "@txAllWilaya":{
+         "description": "All Wilayas"
+    },
+    "txtStart": "Start",
+    "@txtStart":{
+         "description": "Start"
+    },
+     "txtMetier": "Craft",
+    "@txtMetier":{
+         "description": "Craft"
+    },  
+     "txtModifier": "‘Update",
+    "@txtModifier":{
+         "description": "‘Update"
+    },  
+     "txtWelcome": "Welcome",
+    "@txtWelcome":{
+         "description": "Welcome"
+    },  
+     "txtlogout": "Logout",
+    "@txtlogout":{
+         "description": "Logout"
+    },  
+     "txtValider": "Ok",
+    "@txtValider":{
+         "description": "Ok"
+    },  
+     "txtRendreVisibile": "Make visible",
+    "@txtRendreVisibile":{
+         "description": "Make visible"
+    },  
+     "txtRendreInVisibile": "Make invisible",
+    "@txtRendreInVisibile":{
+         "description": "Make invisible"
+    },  
+     "txtAnnuler": "Cancel",
+    "@txtAnnuler":{
+         "description": "Cancel"
+    },  
+     "txtLibRecherche": "Search",
+    "@txtLibRecherche":{
+         "description": "Search"
+    },  
+     "txtLibNom": "Full name",
+    "@txtLibNom":{
+         "description": "Full name"
+    },  
+     "txtLibTel": "Phone Number",
+    "@txtLibTel":{
+         "description": "Phone Number"
+    },  
+     "txtLibAdresse": "Adress",
+    "@txtLibAdresse":{
+         "description": "Adress"
+    },  
+     "txtLibEmail": "Email",
+    "@txtLibEmail":{
+         "description": "Email"
+    },  
+     "txtLibFacebook": "Facebook",
+    "@txtLibFacebook":{
+         "description": "Facebook"
+    },  
+    "txtSupprimer": "Delete",
+    "@txtSupprimer":{
+         "description": "Delete"
+    },
+    "txtErreur": "Error",
+    "@txtErreur":{
+         "description": "Error"
+    },
+     "txtTitreLogin": "Administrator Login",
+    "@txtTitreLogin":{
+         "description": "Administrator Login"
+    },
+     "txtLoginAdmin": "Login Admin",
+    "@txtLoginAdmin":{
+         "description": "Login Admin"
+    }, 
+    "txtProblemeDelete": "Problem while deleting !!!",
+    "@txtProblemeDelete":{
+         "description": "Problem while deleting !!!"
+    }, 
+    "txtProblemeInsert": "Problem while adding !!!",
+    "@txtProblemeInsert":{
+         "description": "Problem while adding !!!"
+    }, 
+    "txtProblemeUpdate": "Problem while updating information !!!",
+    "@txtProblemeUpdate":{
+         "description": "Problem while updating information !!!"
+    }, 
+    "txtErrDelete": "You cannot delete this information...",
+    "@txtErrDelete":{
+         "description": "You cannot delete this information..."
+    }, 
+    "txtQuestionDelete": "Are you sure you want to delete this information ???",
+    "@txtQuestionDelete":{
+         "description": "Are you sure you want to delete this information ???"
+    }, 
+    "txtSucessDelete": "Information deleted ...",
+    "@txtSucessDelete":{
+         "description": "Information deleted ..."
+    }, 
+    "txtListeVide": "Empty list ...",
+    "@txtListeVide":{
+         "description": "Empty list ..."
+    }, 
+    "txtSucessUpdate": "Information updated ...",
+    "@txtSucessUpdate":{
+         "description": "Information updated ..."
+    }, 
+    "txtProblemeServeur": "Connection problem with the server !!!",
+    "@txtProblemeServeur":{
+         "description": "Connection problem with the server !!!"
+    },
+    "txtProblemeCodeAccess": "Incorrect access code !!!",
+    "@txtProblemeCodeAccess":{
+         "description": "Incorrect access code !!!"
+    },
+    "txtTitreAdmin": "Administrator area",
+    "@txtTitreAdmin":{
+         "description": "Administrator area"
+    },
+    "txtChampsObligatoire": "Required fields",
+    "@txtChampsObligatoire":{
+         "description": "Required fields"
+    },
+    "txtTitreArtisans": "List of craftsmen",
+    "@txtTitreArtisans":{
+         "description": "List of craftsmen"
+    },
+    "txtTitreSpecialite": "List of professions",
+    "@txtTitreSpecialite":{
+         "description": "List of professions"
+    },
+    "txtTitreFicheArtisan": "Crafstman Sheet",
+    "@txtTitreFicheArtisan":{
+         "description": "Crafstman Sheet"
+    },
+    "txtTitreFicheSpecialite": "Professions Sheet",
+    "@txtTitreFicheSpecialite":{
+         "description": "Professions Sheet"
+    },
+    "txtLibInscris": "craftsmen",
+    "@txtLibInscris":{
+         "description": "craftsmen"
+    },
+    "txtValidationEnCours": "Validation in progress ...",
+    "@txtValidationEnCours":{
+         "description": "Validation in progress ..."
+    },
+    "txtConnexionEnCours": "Connecting ...",
+    "@txtConnexionEnCours":{
+         "description": "Connecting ..."
+    },
+    "txtQuestionAnnuler": "Do you really want to cancel ???",
+    "@txtQuestionAnnuler":{
+         "description": "Do you really want to cancel ???"
+    },
+    "txtQuestionQuitter": "Are you sure you want to quit the application?",
+    "@txtQuestionQuitter":{
+         "description": "Are you sure you want to quit the application?"
+    },
+    "txNewCode": "New access code",
+    "@txNewCode":{
+         "description": "New access code"
+    },
+    "txtErrCodeAncien": "Wrong current access code",
+    "@txtErrCodeAncien":{
+         "description": "Wrong current access code"
+    },
+    "txtOldCode": "Current access code",
+    "@txtOldCode":{
+         "description": "Current access code"
+    },
+     "txtbtnConnecter": "Connect",
+    "@txtbtnConnecter":{
+         "description": "Connect"
+    },
+     "txtCodeAccess": "Access Code",
+    "@txtCodeAccess":{
+         "description": "Access Code"
+    },
+     "txtErrExisteDeja": "This record already exists !!!",
+    "@txtErrExisteDeja":{
+         "description": "This record already exists !!!"
+    },
+     "txtModifCodeAccess": "Update access code",
+    "@txtModifCodeAccess":{
+         "description": "Update access code"
+    },
+     "txtErrDesSpecialite": "Please enter the designation !!!",
+    "@txtErrDesSpecialite":{
+         "description": "Please enter the designation !!!"
+    },
+     "txtQuestionSansPhoto": "Are you sure you want to continue without a photo???",
+    "@txtQuestionSansPhoto":{
+         "description": "Are you sure you want to continue without a photo???"
+    },
+     "txtErrChampsObligatoire": "Please complete all required fields !!!",
+    "@txtErrChampsObligatoire":{
+         "description": "Please complete all required fields !!!"
+    },
+     "txtchooseSpecialite": "Please choose Craft !!!",
+    "@txtchooseSpecialite":{
+         "description": "Please choose Craft !!!"
+    },
+    "txtErrAcceuil": "Please choose the wilaya and the profession !!!",
+    "@txtErrAcceuil":{
+         "description": "Please choose the wilaya and the profession !!!"
+    },
+     "txtErrSearchWilaya": "Please choose Wilaya !!!",
+    "@txtErrSearchWilaya":{
+         "description": "Please choose Wilaya !!!"
+    },
+    "txtWilaya": "Wilaya",
+    "@txtWilaya":{
+         "description": "Wilaya"
+    }, 
+    "txtChoixMetier": "Choose Craft",
+    "@txtChoixMetier":{
+         "description": "Choose Craft"
+    }, 
+    "txtChoixWilaya": "Choose Wilaya",
+    "@txtChoixWilaya":{
+         "description": "Choose Wilaya"
+    }, 
+    "txtSujetWelcome": "Welcome to the Craftsmen application. This application includes a lot of manpower for all disciplines in several cities, all of them are in your fingertips",
+    "@txtSujetWelcome":{
+         "description": "Welcome to the Craftsmen application. This application includes a lot of manpower for all disciplines in several cities, all of them are in your fingertips"
+    }
+}
