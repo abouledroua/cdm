@@ -239,7 +239,7 @@ class _ListArtisansState extends State<ListArtisans> {
                                               : FontWeight.normal))),
                             if (!loading && artisans.isEmpty) const Spacer(),
                             if (!loading && artisans.isNotEmpty) searchBar(),
-                            if (!loading && artisans.isNotEmpty) bodyContent(),
+                            if (!loading && artisans.isNotEmpty) bodyContent()
                           ]));
                     }))))));
   }
@@ -508,7 +508,7 @@ class _ListArtisansState extends State<ListArtisans> {
                             style: const TextStyle(color: Colors.black))
                       ])
                     ])),
-            likeBar(i)
+            //    likeBar(i)
           ])));
 
   Container likeBar(int i) {
