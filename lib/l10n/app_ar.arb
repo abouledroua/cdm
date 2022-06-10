@@ -50,6 +50,8 @@
     "txtSucessDelete": "تم حذف المعلومات بنجاح",
     "txtProblemeUpdate": "مشكلة أثناء تحديث المعلومات !!!",
     "txtErrDelete": "لا يمكنك حذف هذه المعلومات ...",
+    "txtInsertArtisan": "إضافة حرفي",
+    "txtInsertMetier": "إضافة حرفة",
     "txtQuestionQuitter": "هل أنت متأكد أنك تريد إنهاء التطبيق؟",
     "txtQuestionSansPhoto": "هل أنت متأكد أنك تريد الاستمرار بدون صورة ؟؟؟",
     "txtQuestionAnnuler": "هل حقا تريد الالغاء ؟؟؟",

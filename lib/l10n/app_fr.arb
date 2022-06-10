@@ -48,6 +48,8 @@
     "txtbtnConnecter": "Connecter",
     "txtSucessUpdate": "Information mise à jour …",
     "txtSucessDelete": "Information supprimée …",
+    "txtInsertArtisan": "Ajouter un artisan",
+    "txtInsertMetier": "Ajouter un métier",
     "txtQuestionSansPhoto":  "Voulez-vous vraiment continuer sans photo???",
     "txtQuestionAnnuler":  "Voulez-vous vraiment annuler ???",
     "txtQuestionDelete":  "Voulez-vous vraiment supprimer cette information ???",

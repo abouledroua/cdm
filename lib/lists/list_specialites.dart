@@ -123,6 +123,7 @@ class _ListSpecialiteState extends State<ListSpecialite> {
                 floatingActionButton: !Data.isAdmin
                     ? null
                     : FloatingActionButton(
+                        tooltip: AppLocalizations.of(context)!.txtInsertMetier,
                         child: const Icon(Icons.add),
                         onPressed: () {
                           var route = MaterialPageRoute(

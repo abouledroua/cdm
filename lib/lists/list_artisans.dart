@@ -155,6 +155,7 @@ class _ListArtisansState extends State<ListArtisans> {
                 floatingActionButton: !Data.isAdmin
                     ? null
                     : FloatingActionButton(
+                        tooltip: AppLocalizations.of(context)!.txtInsertArtisan,
                         child: const Icon(Icons.add),
                         onPressed: () {
                           var route = MaterialPageRoute(

@@ -171,6 +171,14 @@
     "@txtTitreFicheSpecialite":{
          "description": "Professions Sheet"
     },
+    "txtInsertArtisan": "add craftsman",
+    "@txtInsertArtisan":{
+         "description": "add craftsman"
+    },
+    "txtInsertMetier": "add craft",
+    "@txtInsertMetier":{
+         "description": "add craft"
+    },
     "txtLibInscris": "craftsmen",
     "@txtLibInscris":{
          "description": "craftsmen"
