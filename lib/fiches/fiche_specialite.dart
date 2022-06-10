@@ -1,5 +1,3 @@
-// ignore_for_file: avoid_print, depend_on_referenced_packages
-
 import 'dart:math';
 import 'package:awesome_dialog/awesome_dialog.dart';
 import 'package:cdm/classes/data.dart';
@@ -31,7 +29,7 @@ class _FicheSpecialiteState extends State<FicheSpecialite> {
 
   @override
   void initState() {
-    WidgetsFlutterBinding.ensureInitialized(); //all widgets are rendered here
+    WidgetsFlutterBinding.ensureInitialized();
     idSpecialite = widget.idSpecialite;
     loading = false;
     valider = false;

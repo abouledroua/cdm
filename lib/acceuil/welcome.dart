@@ -1,5 +1,3 @@
-// ignore_for_file: avoid_print
-
 import 'package:cdm/acceuil/acceuil.dart';
 import 'package:cdm/classes/data.dart';
 import 'package:cdm/provider/local_provider.dart';

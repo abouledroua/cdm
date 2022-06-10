@@ -1,5 +1,3 @@
-// ignore_for_file: avoid_print
-
 import 'dart:math';
 import 'package:awesome_dialog/awesome_dialog.dart';
 import 'package:cdm/classes/data.dart';

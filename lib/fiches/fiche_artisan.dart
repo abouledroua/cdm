@@ -1,5 +1,3 @@
-// ignore_for_file: avoid_print, depend_on_referenced_packages
-
 import 'dart:io';
 import 'dart:math';
 import 'package:awesome_dialog/awesome_dialog.dart';
@@ -51,7 +49,7 @@ class _FicheArtisanState extends State<FicheArtisan> {
 
   @override
   void initState() {
-    WidgetsFlutterBinding.ensureInitialized(); //all widgets are rendered here
+    WidgetsFlutterBinding.ensureInitialized();
     idArtisan = widget.idArtisan;
     provider = Provider.of<LocalProvider>(context, listen: false);
     countryCode = provider.locale?.languageCode;

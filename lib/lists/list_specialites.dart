@@ -1,5 +1,3 @@
-// ignore_for_file: avoid_print
-
 import 'dart:math';
 import 'package:cdm/classes/data.dart';
 import 'package:cdm/widgets/info_specialite.dart';
@@ -30,7 +28,7 @@ class _ListSpecialiteState extends State<ListSpecialite> {
 
   @override
   void initState() {
-    WidgetsFlutterBinding.ensureInitialized(); //all widgets are rendered here
+    WidgetsFlutterBinding.ensureInitialized();
     provider = Provider.of<LocalProvider>(context, listen: false);
     countryCode = provider.locale?.languageCode;
     getListSpecialite();

@@ -1,5 +1,3 @@
-// ignore_for_file: avoid_print
-
 import 'package:awesome_dialog/awesome_dialog.dart';
 import 'package:cdm/acceuil/admin_acceuil.dart';
 import 'package:cdm/classes/data.dart';
@@ -24,7 +22,7 @@ class _UserLoginState extends State<UserLogin> {
 
   @override
   void initState() {
-    WidgetsFlutterBinding.ensureInitialized(); //all widgets are rendered here
+    WidgetsFlutterBinding.ensureInitialized();
     nbTry = 0;
     loading = false;
     Data.isAdmin = false;

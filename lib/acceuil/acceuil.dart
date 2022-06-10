@@ -51,7 +51,7 @@ class _PageAcceuilState extends State<PageAcceuil> {
 
   @override
   void initState() {
-    WidgetsFlutterBinding.ensureInitialized(); //all widgets are rendered here
+    WidgetsFlutterBinding.ensureInitialized();
     provider = Provider.of<LocalProvider>(context, listen: false);
     locale = provider.locale;
     countryCode = provider.locale?.languageCode;

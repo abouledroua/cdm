@@ -1,5 +1,3 @@
-// ignore_for_file: avoid_print
-
 import 'package:cdm/auth/user_login.dart';
 import 'package:cdm/classes/data.dart';
 import 'package:cdm/classes/specialite.dart';
@@ -41,7 +39,7 @@ class _ListArtisansState extends State<ListArtisans> {
 
   @override
   void initState() {
-    WidgetsFlutterBinding.ensureInitialized(); //all widgets are rendered here
+    WidgetsFlutterBinding.ensureInitialized();
     mySpec = widget.mySpec;
     indWilaya = widget.indWilaya;
     isSwitchedWilaya = (indWilaya < 0);
@@ -508,7 +506,6 @@ class _ListArtisansState extends State<ListArtisans> {
                             style: const TextStyle(color: Colors.black))
                       ])
                     ])),
-            //    likeBar(i)
           ])));
 
   Container likeBar(int i) {

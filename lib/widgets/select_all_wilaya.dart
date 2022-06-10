@@ -1,5 +1,3 @@
-// ignore_for_file: avoid_print
-
 import 'dart:math';
 
 import 'package:cdm/classes/data.dart';
